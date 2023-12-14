@@ -1,5 +1,5 @@
 # light_Detector
-A simple lightdetector made with arduino and php
+A simple lightdetector made with arduino and php. Made in collabration with <a href="https://github.com/Cefucr">@Cefucr</a>
 
 The password,ssid and address have been removed for obvious reasons :>.
 
@@ -14,3 +14,4 @@ In this tinker the board is an Arduino Uno but in the project a Arduino nano 33 
 
 The server side code takes the values from the arduino and puts them into a file named knowledge.txt.
 The code then reads said file and outputs the values onto the webpage.
+
